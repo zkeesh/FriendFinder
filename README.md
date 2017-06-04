@@ -1,2 +1,2 @@
-# FriendFinder
-Friend Finder
+# Friend Finder
+friend finder application
